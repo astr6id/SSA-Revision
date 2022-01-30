@@ -1,6 +1,10 @@
 # SSA-Revision
 A small revision site for the school South Shore Academy. Currently being worked on solo with some assistance of understanding new conscepts from third parties.
 
+# Try out our open chat here:
+https://MyChat.serbot.repl.co
+
+
 # Currently working on:
 * Adding more revision
 * Adding tabs / other features to make it easier to navigate
