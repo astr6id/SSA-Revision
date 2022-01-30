@@ -10,13 +10,13 @@ A small revision site for the school South Shore Academy. Currently being worked
 * Notifications
 
 # Recently fixed / added features:
-+ Tabs not loading correctly now working
-+ Loading animation for long processing background image
+* Tabs not loading correctly now working
+* Loading animation for long processing background image
 
 # Issues:
-- Forgot Password doesn't line up
-- The site on phone is a bit buggy
-- Background doesn't load fast
-- Background doesn't cover screen on phone
+* Forgot Password doesn't line up
+* The site on phone is a bit buggy
+* Background doesn't load fast
+* Background doesn't cover screen on phone
 
 
