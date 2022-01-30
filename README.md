@@ -8,7 +8,6 @@ A small revision site for the school South Shore Academy. Currently being worked
 # Features I am wanting to add
 * Chat in JavaScript Instead of PHP
 * Notifications
-* 
 
 # Recently fixed / added features:
 + Tabs not loading correctly now working
